@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nemanja Zajic
-- 👀 I’m interested in Machine Learning, Data Science, Big Data and Cloud Computing
-- 🌱 I’m currently learning Microservices and Serverless aproach in developing app
-- 💞️ I’m looking to collaborate in various ML projects
+- 👀 I'm ERP developer and machine learning engineer
+- 🌱 I'm learning Rust
 - 📫 How to reach me nemanja.zajic@hotmail.com,https://www.kaggle.com/zajazaki
 
 <!---
